@@ -1,0 +1,14 @@
+Calificaciones
+		A	B	C	D	E	F	G	H	I
+
+Prototype	8	8	8	8	8		8	5	7		
+
+Builder		7	8	8	6	6	8	5	6	7
+
+Bridge		7	7	6	7	7	8	9	5	6
+
+Adapter		6	6	6	9		6	5	5	7
+
+Facade		8	9	5	6	7	6	5	7	8
+
+Composide	6	7	7	7	6	7	5	6	6
